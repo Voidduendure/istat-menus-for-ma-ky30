@@ -1,4 +1,4 @@
-
+Enhance iStat Menus for macOS with custom Extension for iStat Menus for macOS - window-management and search-enhancement, the #1 extension. Includes window-management and
 
 
 
